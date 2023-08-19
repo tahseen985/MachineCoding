@@ -1,0 +1,43 @@
+class ->
+ParkingLot
+Floor
+Slot
+Vehicle
+Ticket
+
+
+/*
+try and catch ->
+db connection ->
+api implement ->
+ */
+
+ /*
+ error handling
+ optimization
+ null handling
+ wrong input
+ corner cases
+  */
+
+
+  /*
+      floor -> count -> car, bike, truck
+      map<Int, map<Enum, Int>> map
+      map<Int, map<Enum, priorityQueue>>
+       */
+
+
+       /*
+       floor
+       slot type, type, type
+        */
+
+
+
+        /*
+        1 -> controller
+        2 -> service
+        3 -> model
+        4 -> enum
+         */
