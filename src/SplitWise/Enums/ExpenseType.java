@@ -1,5 +1,5 @@
 package SplitWise.Enums;
 
-public enum TransactionType {
+public enum ExpenseType {
     EQUAL, EXACT, PERCENT;
 }
